@@ -25,3 +25,5 @@ document.addEventListener('keydown', function (e) {
       closeModal();
     }
 });
+
+//lazy loading images
